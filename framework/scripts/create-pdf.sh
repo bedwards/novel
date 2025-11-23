@@ -24,8 +24,9 @@ TEMP_MD="$OUTPUT_DIR/temp-combined.md"
 # Add title page
 cat > "$TEMP_MD" << 'EOF'
 ---
-title: "Novel Manuscript"
-author: "Work in Progress"
+title: "Lamp Oil"
+subtitle: "A Novel"
+author: "Brian Edwards"
 date: 
 geometry: margin=1in
 fontsize: 12pt

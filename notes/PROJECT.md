@@ -1,7 +1,8 @@
 # Project Overview
 
 ## Novel Information
-- **Title**: [TBD]
+- **Title**: Lamp Oil
+- **Author**: Brian Edwards
 - **Genre**: Philosophical Fiction / Literary Fiction
 - **Target Word Count**: 80,000+
 - **POV**: First Person (stable within chapters, changes between chapters)
