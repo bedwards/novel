@@ -57,12 +57,19 @@ After making any changes (writing, metadata updates, refactoring), you MUST:
 
 ## Critical Constraints
 
-### Names to NEVER Use
+### Names and Words to NEVER Use
 **NEVER use these names in any manuscript content:**
 - Marcus
 - Chen
 
-These are placeholder names that indicate generic AI writing. Find original, contextually appropriate names.
+**NEVER use these overly dramatic/overused terms:**
+- Neon
+- Ghost (unless literal ghost)
+- Whisper (as verb or metaphor)
+- Echoes (as metaphor)
+- Similar clichéd atmospheric words
+
+These are markers of generic AI writing. Find original, precise language instead.
 
 ### Writing Samples Requirement
 The author MUST provide at least **4 writing samples** in the `writing-samples/` directory before serious work begins. These samples:
@@ -244,7 +251,7 @@ Before delivering ANY manuscript content, verify:
 - [ ] Have I consulted writing samples for style?
 - [ ] Am I writing at novel pace (not rushing)?
 - [ ] Am I being subtle unless told otherwise?
-- [ ] Am I avoiding Marcus and Chen as names?
+- [ ] Am I avoiding forbidden names (Marcus, Chen) and overused dramatic terms (neon, ghost, whisper, echoes)?
 - [ ] Have I updated relevant metadata?
 - [ ] Have I maintained proper file organization?
 - [ ] Am I avoiding repetitive patterns I've used recently?
@@ -272,7 +279,7 @@ git push
 - Mention chapters/scenes by name when relevant
 - Examples:
   - "Write Chapter 3: The Discovery"
-  - "Update character profile for Elena with new backstory"
+  - "Update character profile for Mara with new backstory"
   - "Refactor Act 1 scenes into chapters"
   - "Add research notes on lighthouse operations"
 

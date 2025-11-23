@@ -45,11 +45,11 @@ Observant, precise, understated. Philosophical but not pretentious. Pragmatic tr
 - Trust the reader
 
 ## Words to Avoid
-- Marcus (forbidden placeholder)
-- Chen (forbidden placeholder)
-- Overexplaining
+- **Forbidden names**: Marcus, Chen
+- **Overused dramatic terms**: neon, ghost (unless literal), whisper (as verb/metaphor), echoes (as metaphor)
+- **Generic AI patterns**: overexplaining, purple prose, clichéd atmospheric language
 - Cheap mystery tricks/delays of information
-- Generic AI writing
+- Similar hackneyed, overdramatic vocabulary
 
 ## Vocabulary Register
 - Educated, observant

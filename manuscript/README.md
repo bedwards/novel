@@ -1,29 +1,26 @@
-# Manuscript - The Last Lighthouse
+# Manuscript
 
 ## Current Status
-- **Word Count**: ~600 words (Scene 1)
-- **Phase**: Example/Template
+- **Word Count**: ~750 words
+- **Phase**: Drafting Prologue
 - **Chapters**: 0 complete
-- **Scenes**: 1 draft
+- **Scenes**: Prologue page 1 (in progress)
 
 ## Structure
 
-This manuscript uses a **scene-based** approach:
-- Individual scenes written in `scenes/` directory
-- Scenes organized into chapters later
-- Allows for flexible reorganization
+Using **page-by-page** approach (Dean Koontz method):
+- Perfect one page at a time before moving forward
+- Each page hammered through feedback/revision
+- Only advance when current page is complete
 
-## Scenes
+## Current Work
 
-### Act 1
-1. **01-routine.md** - Elena's daily life at the lighthouse (DRAFT)
-2. *(Planned)* Storm sequence
-3. *(Planned)* Discovery of journal
-4. *(Planned)* First journal entries
+### Prologue
+1. **00-prologue-page-01.md** - Opening page (DRAFT - awaiting feedback)
 
 ## Notes
 
-This is an example novel demonstrating the framework. New users should:
-1. Run `./framework/scripts/setup-new-novel.sh`
-2. This will archive this example
-3. Start fresh with their own story
+- First person narrator (unnamed so far)
+- Frame narrative structure
+- Philosophical fiction
+- Page-by-page perfection process
