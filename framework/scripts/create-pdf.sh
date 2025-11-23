@@ -33,23 +33,24 @@ fontsize: 12pt
 linestretch: 1.5
 ---
 
-\newpage
-
 EOF
 
 # Add prologue
 if [ -f "$MANUSCRIPT_DIR/00-prologue.md" ]; then
     echo "Adding: Prologue"
-    # Skip the markdown header line
-    tail -n +2 "$MANUSCRIPT_DIR/00-prologue.md" >> "$TEMP_MD"
-    echo -e "\n\n\\newpage\n" >> "$TEMP_MD"
+    echo -e "\n# Prologue\n" >> "$TEMP_MD"
+    # Skip the first two lines (markdown header)
+    tail -n +3 "$MANUSCRIPT_DIR/00-prologue.md" >> "$TEMP_MD"
+    echo -e "\n" >> "$TEMP_MD"
 fi
 
 # Add chapter 1
 if [ -f "$MANUSCRIPT_DIR/01-chapter-one.md" ]; then
     echo "Adding: Chapter One"
-    tail -n +2 "$MANUSCRIPT_DIR/01-chapter-one.md" >> "$TEMP_MD"
-    echo -e "\n\n\\newpage\n" >> "$TEMP_MD"
+    echo -e "\n# Chapter One\n" >> "$TEMP_MD"
+    # Skip the first two lines (markdown header)
+    tail -n +3 "$MANUSCRIPT_DIR/01-chapter-one.md" >> "$TEMP_MD"
+    echo -e "\n" >> "$TEMP_MD"
 fi
 
 # Convert to PDF using pandoc
