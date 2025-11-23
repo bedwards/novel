@@ -281,7 +281,7 @@ git push
   - "Write Chapter 3: The Discovery"
   - "Update character profile for Mara with new backstory"
   - "Refactor Act 1 scenes into chapters"
-  - "Add research notes on lighthouse operations"
+  - "Add research notes on frame narrative theory"
 
 ### When to Commit
 - After writing or revising scenes/chapters
