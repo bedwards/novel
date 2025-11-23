@@ -1,10 +1,8 @@
 # Chapter One
 
-We'd been tracking them for two days, hanging back just beyond the horizon, watching their sails. The *Petrel* out of Nantucket, Captain Silas Worth commanding, though I wouldn't learn his name until later, until after everything had happened and there was time to go through what was left.
+Tracking the *Petrel* out of Nantucket, Captain Silas Worth commanding, we hung back just beyond the horizon, watching their sails. On the morning of the third day they harpooned something.
 
-On the morning of the third day they harpooned something.
-
-I was in the rigging when it surfaced—not because I was skilled at rigging work but because someone had to do it and I was competent enough not to fall—and even from that height you could tell the whale was enormous. The kind that makes you understand why sailors used to think there were sea monsters. The men in the small boats went after it with harpoons and the whale dove, and when it surfaced again it was bleeding, and when it dove a second time one of the boats went with it, pulled under by the line, and came up twenty seconds later without three of its crew.
+I was in the rigging—not because I was skilled at rigging work but because someone had to do it and I was competent enough not to fall—and even from a distance I could tell the whale was enormous. The kind that makes you understand why sailors used to think there were sea monsters. The men in the small boats went after it with harpoons and the whale dove, and when it surfaced again it was bleeding, and when it dove a second time one of the boats went with it, pulled under by the line, and came up twenty seconds later without three of its crew.
 
 This went on for six hours. We closed the distance slowly, like we were just another ship passing through, no threat, nothing to worry about. Captain Edward Fitch—my captain—stood at the rail with his spectacles on, watching the whole thing with the same expression he used when reviewing manifests. He was an accountant's son from Manchester who'd gotten into piracy because he was good with numbers and better at violence, though he kept the violence efficient, practical, like he was solving equations. No speeches. No grand gestures. Just: this is what needs to happen, and then it happened.
 

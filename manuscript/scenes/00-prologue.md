@@ -26,9 +26,9 @@ Mara's voice pulled me back, her voice and the pressure of the gun against my te
 
 The gun lowered. "Show us where it is," Mara said.
 
-I didn't know what they wanted. That was true. But I knew I'd give it to them. That was also true.
+"I don't know what you're talking about," I said, which was true in the sense that I didn't know what the hell they wanted with my father's key, false in that I knew I'd give it to them anyway. Cowardice or pragmatism—another distinction without meaning.
 
-"That's not real," I said, but I was thinking about Zheng's face that night, how serious he'd been under the wine, how he'd looked like a man who'd seen something he couldn't unsee. And I was thinking about my father, who'd never mentioned nested worlds or crossing over, who'd been a drunk and a cynic and a bastard, but who'd left me something in his will that I hadn't understood. A key, the lawyer had said. Just a key, no explanation, no box or lock or instruction, just a brass key on a leather cord that I'd shoved in a drawer and forgotten about.
+I remembered Zheng's face that night, how serious he'd been under the wine, how he'd looked like a man who'd seen something he couldn't unsee. And I was thinking about my father, who'd never mentioned nested worlds or crossing over, who'd been a drunk and a cynic and a bastard, but who'd left me something in his will that I hadn't understood. A key, the lawyer had said. Just a key, no explanation, no box or lock or instruction, just a brass key on a leather cord that I'd shoved in a drawer and forgotten about.
 
 They marched me through empty early morning streets, past closed shops and the occasional person sleeping in a doorway. The dog-man's claws clicked on the pavement. The shorter man kept his hand on something in his jacket pocket. Mara grabbed my hand, gruff, holding the gun now in her other hand across her body pointing at my ribs, but after a block or two her grasp softened and she allowed the gun to drop by her side, though her grip on my hand stayed firm, like she needed to hold onto something real while the dog-man led us through streets that were starting to feel less and less like the streets I knew.
 
@@ -56,7 +56,7 @@ He stopped under the next lamp post, completely stopped, not just pausing but fr
 
 The dog-man didn't move. He kept scratching, kept staring up into the light, and then he started speaking again, but different now, like he wasn't talking to us anymore, like he was talking to himself or to something else entirely.
 
-"We'd been tracking them for two days," he said. "The *Petrel*. Captain Silas Worth. We hung back just beyond the horizon, watching their sails. On the morning of the third day they harpooned something. I was in the rigging when it surfaced—not because I was skilled at rigging work but because someone had to do it and I was competent enough not to fall—and even from that height you could tell the whale was enormous."
+"We'd been tracking them for two days," he said. "The *Petrel*."
 
 The shorter man let go of his arm, stepped back. Mara's hand was trembling in mine now, just slightly, enough that I could feel it.
 
