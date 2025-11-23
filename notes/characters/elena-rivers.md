@@ -1,72 +1,49 @@
-# Elena Rivers
+# Mara
 
 ## Basic Information
-- **Full Name**: Elena Marie Rivers
-- **Age**: 34
-- **Role**: Protagonist / POV Character
-- **First Appearance**: Chapter 1 (Opening)
-- **Occupation**: Lighthouse Keeper (Widow's Point)
+- **Full Name**: Mara [Last name TBD]
+- **Age**: Late 20s/early 30s (same as narrator)
+- **Role**: Antagonist / Former lover
+- **First Appearance**: Prologue, Page 1
 
 ## Physical Description
-- Tall and lean, weathered from outdoor work
-- Dark hair usually pulled back, showing gray streaks she doesn't bother hiding
-- Hands calloused from manual labor
-- Moves with economy of motion, nothing wasted
-- Style: Practical work clothes, layers against coastal weather
+- Wearing same dress from when she was 17
+- Steady hands (with gun)
 
 ## Background
-- Grew up in coastal Maine, daughter of maritime historian
-- Younger brother: Dylan (disappeared 3 years ago)
-- Trained as marine biologist, worked in research for 8 years
-- After Dylan's disappearance, quit job and applied for lighthouse position
-- Has been at Widow's Point for 3 years
+- First sexual relationship with narrator at age 17 (garden shed at her mother's house)
+- Read Campbell in college
+- Had promised Paris
+- Left narrator at some point
+- Now working with Viktor and the shorter man
+- Knows about the Third Realm
+- Knew narrator would "need the full treatment"
 
 ## Personality
-- Competent, self-sufficient
-- Comfortable with solitude (or so she tells herself)
-- Analytical mind—scientist's approach to problems
-- Grief manifests as deliberate isolation
-- Curious despite her efforts to suppress it
-- Honest to the point of bluntness
+- Steady, controlled
+- Pragmatic about cruelty
+- Believes love is a transaction
+- Meta-aware (references narrative elements directly)
+- Always right (according to narrator)
+- Chooses easy cruelty over hard (shot dog instead of narrator)
 
 ## Motivation
-- **Surface**: Maintain the lighthouse, avoid painful memories
-- **Deep**: Find Dylan, understand what happened
-- **Fear**: That she'll discover Dylan chose to leave her
+- Wants whatever the father left (key to Third Realm)
+- [More to be discovered]
 
-## Internal Conflict
-- Wants isolation but is lonely
-- Trained to trust evidence but drawn to mystery
-- Needs closure but fears what she'll find
-- Believes she's protecting herself through isolation, actually imprisoning herself
-
-## Arc
-- **Beginning**: Isolated, avoiding life and pain
-- **Middle**: Forced to engage, investigate, risk
-- **End**: Chooses connection, accepts loss, moves forward
-
-## Voice
-- Internal monologue: Precise, slightly sardonic
-- Speech: Direct, minimal small talk
-- Vocabulary: Educated but not pretentious, maritime/scientific terms natural
-- Rhythm: Clipped, efficient sentences when stressed; longer, more contemplative when alone with thoughts
+## Voice (when speaking)
+- Direct
+- Almost gentle when cruel
+- References literature/theory
+- Self-aware about narrative construction
 
 ## Relationships
-- **Dylan** (brother): Missing, was her closest relationship
-- **Mother**: Deceased (mentioned in backstory)
-- **Father**: Alive but estranged, mainland
-- **[Other characters to be developed]**: Mainland contacts she must reconnect with
-
-## Character-Specific Details
-- Keeps meticulous maintenance logs
-- Has Dylan's watch, winds it daily
-- Knows lighthouse history obsessively
-- Terrible at sleeping (insomnia since Dylan vanished)
-- Notices structural details, patterns, inconsistencies
+- **Narrator**: Former lover, known since teenagers, left him
+- **Viktor**: Working with, takes orders from
+- **The shorter man**: Working with
 
 ## Notes for Writing
-- POV: Third person limited (deep in her perspective)
-- She notices practical things, not decorative
-- Filters world through scientific lens until the journal challenges that
-- Her isolation is both shield and cage
-- Don't make her melodramatic—grief is quiet, daily, persistent
+- Central antagonist in prologue frame
+- Understands narrator well enough to predict he'd need "the full treatment"
+- May be more complex than simple villain
+- Her "always being right" is narrator's perception - unreliable?

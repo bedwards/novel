@@ -1,37 +1,65 @@
 # Project Overview
 
 ## Novel Information
-- **Title**: The Last Lighthouse
-- **Genre**: Literary Mystery
-- **Target Word Count**: 85,000
-- **POV**: Third Person Limited (Multiple POV)
+- **Title**: [TBD]
+- **Genre**: Philosophical Fiction / Literary Fiction
+- **Target Word Count**: [TBD - likely 80,000+]
+- **POV**: First Person (stable within chapters, can change between chapters)
 - **Tense**: Past
+- **Process**: Dean Koontz method - perfect one page at a time before moving forward
 
-## Logline
-When a reclusive lighthouse keeper discovers a century-old journal hidden in the tower walls, she must unravel a maritime mystery that connects her own vanishing family to a shipwreck that never happened.
+## Core Concept
+Highly philosophical but pragmatic. Simplified scenes stripped down to expose truths. Multiple levels of nested frame stories (Gödel, Escher, Bach-inspired). Characters drop into new realities/frames told in first person.
 
-## Premise
+## Key Structural Elements
 
-Elena Rivers has spent three years alone at Widow's Point Lighthouse, maintaining the automated beacon and avoiding the mainland that holds too many memories of her missing brother. When a storm damages the tower and reveals a hidden compartment, she finds Captain James Archer's 1891 journal—detailing a rescue mission for a ship that official records claim never existed.
+### Frame Story Structure
+- **Prologue**: Top-level frame establishing the initial hero
+- **Body**: Multiple nested frame stories, characters dropping into lower realities
+- **Epilogue**: Return to top-level frame from prologue
+- GEB-inspired recursive structure, but not overused
 
-As Elena investigates, she discovers her brother was researching the same mystery before he disappeared. The journal entries grow increasingly desperate, describing impossible lights on the water and ships that appear only in fog. Elena must decide whether her brother found something real or succumbed to the same isolation-induced delusions that threaten her own grasp on reality.
+### POV Rules
+- First person narrator (primary)
+- Narrator stable within each chapter
+- Can change between chapters
+- Only access to ONE person's internals at a time
+- When characters drop into new reality = first person narration
+- Narrator is observant, not chatty
+
+### First Page Requirements (Deliberately Exaggerated)
+Cram typical novel elements into first page to clear space for philosophical work:
+- Sex (coming of age, first love - realistic, adult, not pornographic)
+- Murder
+- Direct action and dialogue between physically present characters
+- Joseph Campbell hero's journey
+- B-plot
+- Coen Brothers-style intricate plot (stupidity, deception, chaos, foiled plans)
+- Villain
+- Insurmountable challenge
+- Reluctant hero
+- Mentor
+- Betrayal
+- Unreliable narrator
+- Human turning into animal
+- "Save the cat" moment for initial hero
+
+### Writing Principles
+- **Don't bury the lede** (Kurt Vonnegut) - reveal facts immediately when it's time, no cheap tricks
+- **Show through action** - character traits revealed through actions/words, not narrator descriptions
+- **Miller's Crossing influence** - diabolical plotting, characters of varying intelligence, rational/irrational contrast within single character, vices
+- **Pragmatic philosophy** - truths exposed through simple, direct scenes
 
 ## Themes
-- Isolation vs. connection
-- Truth vs. perception
-- The weight of family legacy
-- The unreliability of historical record
-- Grief and letting go
+[To be developed through writing]
+- Rationality vs irrationality
+- Truth revealed through simplicity
+- [More to emerge]
 
 ## Target Audience
-Readers of literary mystery in the vein of "The Lighthouse Witches" meets "The Shadow of the Wind." Adults 30-60 who appreciate atmospheric prose, historical elements, and character-driven mystery.
-
-## Comparable Titles
-- "The Lighthouse Witches" by C.J. Cooke
-- "The Lost Apothecary" by Sarah Penner
-- "Mexican Gothic" by Silvia Moreno-Garcia
+Adult readers who appreciate philosophical fiction, frame narratives, and literary experimentation
 
 ## Status
 - Started: November 23, 2025
-- Current Phase: Example/Template
-- Current Word Count: ~2,000 (sample scenes)
+- Current Phase: Writing Prologue (first page)
+- Current Word Count: 0
