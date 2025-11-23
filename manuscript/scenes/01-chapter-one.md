@@ -32,7 +32,7 @@ Our crew was taking casualties too. One of ours—a man named Thomas whose last 
 
 Still the *Petrel*'s crew kept cutting the whale.
 
-Captain Worth—I saw him now for the first time, an old man with bark-hands and a face like weathered leather—was standing at the rail with a harpoon in his hands. Not fighting. Just standing there. Watching his crew work. Watching us kill them. And when Fitch walked up to him, pistol aimed at his chest, Worth didn't say anything. He just took the harpoon in both hands, positioned the point against his own sternum, and drove it forward hard enough that it went through him and into the whale's flesh behind him, pinning himself to the dying animal like he was making some kind of point about something, though what that point was I couldn't have said then and still can't say now.
+Captain Worth—I saw him now for the first time, an old man with bark-hands and a face like weathered leather—was standing at the rail with a harpoon in his hands. Not fighting. Just standing there. Watching his crew work. Watching us kill them. And when Fitch walked up to him, pistol aimed at his chest, Worth didn't say anything. He just looked at the whale, then back at Fitch, then he climbed up onto the rail and jumped—not away from the ship but down onto the whale's back, landing hard on the slick bloody surface. He steadied himself, raised the harpoon, and drove it through his own chest and into the whale's flesh beneath him, pinning himself to the dying animal like he was making some kind of point about something, though what that point was I couldn't have said then and still can't say now.
 
 He died looking at the whale's eye, which was still looking at me.
 

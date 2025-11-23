@@ -4,7 +4,7 @@ I fed the dog first—that's how they got me. Everyone remembers that part, the 
 
 When Mara appeared from the bar's back door with two men I didn't recognize, she was wearing a dress I thought I remembered from years ago, from when we were seventeen, some summer night in her mother's garden shed, mosquitoes against the screens and her skin smelling like the jasmine that grew wild along the fence. Before I understood she was already planning to leave. Before I understood anything. She said it exactly the way my father would have: "Soft. Always so fucking soft." The taller man behind her had a gun and the shorter one was holding my wallet, which I'd left on the bar while helping that dog, and this was stupidity, not nobility, though I'd drunk enough to find the distinction meaningless.
 
-"Knee-cap him," the taller man said to Mara. Not asking. Testing. She turned and shot the dog instead—not me, the dog—one clean pop. The animal didn't even yelp, just folded into itself like bad origami or like how paper cranes collapse when you don't crease them right. I thought: this is how I'll remember her, not the garden shed or the promises about Paris, but this. Her choosing the easy cruelty over the hard one. She'd always been steady like that, even when we were children, when she first explained that love was a transaction. She'd been steady and I'd believed her because I was fifteen and stupid.
+The taller man handed the gun to Mara. "Knee-cap him," he said. Not asking. Testing. She turned and shot the dog instead—not me, the dog—one clean pop. The animal didn't even yelp, just folded into itself like paper cranes collapse when you don't crease them right. I thought: this is how I'll remember her, not the garden shed or the promises about Paris, but this. Her choosing the easy cruelty over the hard one. She'd always been steady like that, even when we were children, when she first explained that love was a transaction. She'd been steady and I'd believed her because I was fifteen and stupid.
 
 The taller man grabbed my shoulder and his hand was changing. I saw this clearly even drunk—the fingers lengthening, nails darkening to claws, the whole shape of it shifting like meat does when it spoils in time-lapse. He was halfway between what he'd been and what he was becoming. Not metaphor. I'd heard stories about the Converted, people who'd crossed over and come back altered, but I'd assumed they were stories in the way you assume anything sufficiently strange is a story until it's standing in front of you with its hand on your shoulder turning into something with claws.
 
@@ -24,13 +24,13 @@ The waitress was back, asking if anyone wanted dessert. No one did. Someone aske
 
 Mara's voice pulled me back, her voice and the pressure of the gun against my temple which had been there the whole time I was gone, the whole time I was back at that dinner which felt like it had lasted hours but couldn't have been more than seconds. "Your father left you the key."
 
-The gun lowered. Mara nodded at the shorter man, then at the taller one who was still half-transformed, still dog-shaped. "Show us where it is," she said to me.
+The gun lowered. "Show us where it is," Mara said.
 
 I didn't know what they wanted. That was true. But I knew I'd give it to them. That was also true.
 
 "That's not real," I said, but I was thinking about Zheng's face that night, how serious he'd been under the wine, how he'd looked like a man who'd seen something he couldn't unsee. And I was thinking about my father, who'd never mentioned nested worlds or crossing over, who'd been a drunk and a cynic and a bastard, but who'd left me something in his will that I hadn't understood. A key, the lawyer had said. Just a key, no explanation, no box or lock or instruction, just a brass key on a leather cord that I'd shoved in a drawer and forgotten about.
 
-We walked. The three of them and me, moving through empty early morning streets, past closed shops and the occasional person sleeping in a doorway. The dog-man's claws clicked on the pavement. The shorter man kept his hand on something in his jacket pocket. Mara walked beside me, close enough that I could smell the jasmine smell again, or maybe I was imagining it, conflating then and now the way you do when you're drunk and frightened and trying to make sense of things that don't make sense.
+They marched me through empty early morning streets, past closed shops and the occasional person sleeping in a doorway. The dog-man's claws clicked on the pavement. The shorter man kept his hand on something in his jacket pocket. Mara grabbed my hand, gruff, holding the gun now in her other hand across her body pointing at my ribs, but after a block or two her grasp softened and she allowed the gun to drop by her side, though her grip on my hand stayed firm, like she needed to hold onto something real while the dog-man led us through streets that were starting to feel less and less like the streets I knew.
 
 The dog-man kept stopping to look at the street lamps. Not the old gas ones—those were all gone now, converted years ago—but the modern electric ones, LED bulbs that cast a different kind of light entirely, whiter, harsher. He'd stop under each one and look up at it like he was trying to understand something.
 
@@ -42,7 +42,7 @@ The dog-man didn't answer. He was looking at the light, his transformed face doi
 
 "Whale oil," the dog-man said. His voice was mostly growl now but still comprehensible. "They used to burn whale oil in the lamps. Street lamps. Cities full of them, all burning whale oil. Someone's job to fill each one, every night."
 
-The shorter man looked at Mara like he was asking permission to do something violent. Mara shook her head slightly.
+The shorter man looked at Mara like he was asking permission to do something violent. Mara shook her head slightly, her hand tightening on mine.
 
 "I was at sea once," the dog-man continued. "We came upon a whaling ship. The *Petrel*, out of Nantucket. They had a whale alongside, still alive. Bleeding. They were cutting it while it was still breathing."
 
@@ -50,6 +50,14 @@ The shorter man looked at Mara like he was asking permission to do something vio
 
 "The water was red," the dog-man said. "The whole ocean around the ship was red, and the whale was making sounds, low sounds like it was trying to speak but didn't have the right mouth for it. And I thought: this is for the lamps. This whole animal, this thing that's bigger than most houses, dying in the ocean so that people in cities can have light in their streets. So they can walk safely at night. So they can see where they're going."
 
-Mara's hand found mine. Her fingers were warm, softer than I remembered them being in the alley. She wasn't holding my hand for comfort or affection. She was holding it like you hold onto something when you're trying to keep your balance, like she needed to be connected to something real while the dog-man talked about whales and street lamps in a voice that was sliding further and further away from human.
+He stopped under the next lamp post, completely stopped, not just pausing but frozen, staring up into the light like it was showing him something we couldn't see. The shorter man grabbed his arm, yanked it, tried to pull him forward, but the dog-man wouldn't budge. He reached up with his clawed hand and started scratching at the post, long scraping sounds, metal on metal, leaving marks in the paint.
 
-"Let me tell you about that ship," the dog-man said.
+"Move," the shorter man said, yanking harder. "Fucking move."
+
+The dog-man didn't move. He kept scratching, kept staring up into the light, and then he started speaking again, but different now, like he wasn't talking to us anymore, like he was talking to himself or to something else entirely.
+
+"We'd been tracking them for two days," he said. "The *Petrel*. Captain Silas Worth. We hung back just beyond the horizon, watching their sails. On the morning of the third day they harpooned something. I was in the rigging when it surfaced—not because I was skilled at rigging work but because someone had to do it and I was competent enough not to fall—and even from that height you could tell the whale was enormous."
+
+The shorter man let go of his arm, stepped back. Mara's hand was trembling in mine now, just slightly, enough that I could feel it.
+
+The dog-man kept talking.
