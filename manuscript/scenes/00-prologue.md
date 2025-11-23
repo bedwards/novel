@@ -32,7 +32,7 @@ I remembered Zheng's face that night, how serious he'd been under the wine, how 
 
 They marched me through empty early morning streets, past closed shops and the occasional person sleeping in a doorway. The dog-man's claws clicked on the pavement. The shorter man kept his hand on something in his jacket pocket. Mara grabbed my hand, gruff, holding the gun now in her other hand across her body pointing at my ribs, but after a block or two her grasp softened and she allowed the gun to drop by her side, though her grip on my hand stayed firm, like she needed to hold onto something real while the dog-man led us through streets that were starting to feel less and less like the streets I knew.
 
-The dog-man kept stopping to look at the street lamps. Not the old gas ones—those were all gone now, converted years ago—but the modern electric ones, LED bulbs that cast a different kind of light entirely, whiter, harsher. He'd stop under each one and look up at it like he was trying to understand something.
+The dog-man kept stopping to look at the street lamps, their LED bulbs casting a harsh, white-hot light. He'd stop under each one and look up at it like he was trying to understand something.
 
 "What the fuck are you doing?" the shorter man said after the third or fourth time this happened. His voice had an edge to it, like he was trying to stay calm and failing.
 
