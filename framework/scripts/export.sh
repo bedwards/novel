@@ -5,8 +5,9 @@
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
-MANUSCRIPT_DIR="$ROOT_DIR/manuscript"
-OUTPUT_FILE="$ROOT_DIR/manuscript/compiled.md"
+MANUSCRIPT_DIR="$ROOT_DIR/manuscript/scenes"
+OUTPUT_DIR="$ROOT_DIR/exports"
+OUTPUT_FILE="$OUTPUT_DIR/compiled.md"
 
 echo "=================================================="
 echo "Compiling Manuscript"

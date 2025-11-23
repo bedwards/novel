@@ -23,6 +23,7 @@ exports/
 *.pdf
 *.epub
 *.mobi
+*.docx
 
 # Temporary files
 *.tmp
