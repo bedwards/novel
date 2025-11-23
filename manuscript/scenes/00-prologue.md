@@ -16,22 +16,40 @@ Zheng was on his third glass of wine, possibly his fourth. He got expansive afte
 
 Robertson—I'm fairly sure it was Robertson—made a joke about Narnia and wardrobes, and Anderson said something about Dante and circles of hell, and we all laughed because that's what you do when a drunk colleague starts talking about metaphysics at a faculty dinner. You laugh and you pour more wine and you hope he'll change the subject before it gets awkward. The waitress came by with more bread. I remember her because she had a tattoo on her wrist, something in a language I didn't recognize, and she moved between the tables like she was trying not to be noticed, like she was practicing invisibility.
 
-But Zheng wasn't laughing. He had that look he got sometimes, that serious look that was almost frightening in how much it contrasted with the wine-drunk flush on his face. "My grandfather crossed over once," he said, and the table got quieter, not silent but quieter, the kind of quiet where people are still chewing and drinking but they're also listening in that way you listen when you're not sure if something's a joke or not. "Came back three days later. Wouldn't talk about what he'd seen. Not to his wife, not to his children." He paused here, refilled his glass even though it was still half full, took a drink like he needed the fortification. "He said the world we thought was solid was just the surface. That beneath it there were other worlds stacked like layers of sediment, and if you knew where to look, if you had the right key or the right words or the right state of mind—he wasn't clear on that part, he kept changing the terms—you could slip down through the cracks between them."
+But Zheng wasn't laughing. He had that look he got sometimes, that serious look that was almost frightening in how much it contrasted with the wine-drunk flush on his face. "My grandfather crossed over once," he said, and the table got quieter, not silent but quieter, the kind of quiet where people are still chewing and drinking but they're also listening in that way you listen when you're not sure if something's a joke or not. "Came back three days later." He paused here, refilled his glass even though it was still half full, took a drink like he needed the fortification. "He told me once, when I was sixteen—just once, he'd never talk about it otherwise—he said the world we thought was solid was just the surface. That beneath it there were other worlds stacked like layers of sediment, and if you knew where to look, if you had the right key or the right words or the right state of mind—he wasn't clear on that part, he kept changing the terms—you could slip down through the cracks between them."
 
-Someone—maybe it was Patterson, the visiting professor from Toronto—said that sounded like a stroke or early-onset dementia, saying it gently the way you do when you're trying to redirect a conversation without being cruel about it. But Zheng shook his head. "He lived another forty years. Healthy. Sharp. Just wouldn't talk about those three days except that once."
+Someone—maybe it was Patterson, the visiting professor from Toronto—said that sounded like a stroke or early-onset dementia, saying it gently the way you do when you're trying to redirect a conversation without being cruel about it. But Zheng shook his head. "He lived another forty years after that. Healthy. Sharp."
 
 The waitress was back, asking if anyone wanted dessert. No one did. Someone asked for the check. The woman whose name I've forgotten laughed at something, too loud again, trying to break the heaviness that had settled over the table. But I was watching Zheng's face, and he was somewhere else entirely, somewhere none of us could follow, and I remember thinking that he believed this, really believed it, that his grandfather had gone somewhere else and come back changed and that the world had cracks in it you could slip through if you knew how to look.
 
-Mara's voice pulled me back, her voice and the pressure of the gun against my temple which had been there the whole time I was gone, the whole time I was back at that dinner which felt like it had lasted hours but couldn't have been more than seconds. "Your father left you the key. You know what I'm talking about."
+Mara's voice pulled me back, her voice and the pressure of the gun against my temple which had been there the whole time I was gone, the whole time I was back at that dinner which felt like it had lasted hours but couldn't have been more than seconds. "Your father left you the key."
 
-I said I didn't know what they were talking about, which was true in the sense that I didn't know what they wanted, false in that I knew I'd give it to them anyway. Cowardice or pragmatism—another distinction without meaning.
+The gun lowered. Mara nodded at the shorter man, then at the taller one who was still half-transformed, still dog-shaped. "Show us where it is," she said to me.
+
+I didn't know what they wanted. That was true. But I knew I'd give it to them. That was also true.
 
 "That's not real," I said, but I was thinking about Zheng's face that night, how serious he'd been under the wine, how he'd looked like a man who'd seen something he couldn't unsee. And I was thinking about my father, who'd never mentioned nested worlds or crossing over, who'd been a drunk and a cynic and a bastard, but who'd left me something in his will that I hadn't understood. A key, the lawyer had said. Just a key, no explanation, no box or lock or instruction, just a brass key on a leather cord that I'd shoved in a drawer and forgotten about.
 
-The taller man's transformation completed while I was thinking this. He was dog now, or dog-shaped, teeth like porcelain knives, and the three-legged corpse at my feet had been his practice run, his becoming. 
+We walked. The three of them and me, moving through empty early morning streets, past closed shops and the occasional person sleeping in a doorway. The dog-man's claws clicked on the pavement. The shorter man kept his hand on something in his jacket pocket. Mara walked beside me, close enough that I could smell the jasmine smell again, or maybe I was imagining it, conflating then and now the way you do when you're drunk and frightened and trying to make sense of things that don't make sense.
 
-He looked up at the street lamp flickering above us. The light was gas, not electric, and it cast that particular yellow that doesn't exist anymore in most places. "Whale oil," he said, his voice already half-growl but still comprehensible. "These used to burn whale oil. Someone's job to fill them, light them, every night. I was at sea once. Saw them kill a sperm whale. Took six hours. The whole ocean turned red."
+The dog-man kept stopping to look at the street lamps. Not the old gas ones—those were all gone now, converted years ago—but the modern electric ones, LED bulbs that cast a different kind of light entirely, whiter, harsher. He'd stop under each one and look up at it like he was trying to understand something.
 
-Mara said something about the key, about my father, but the dog-man wasn't listening to her anymore. He was somewhere else, looking at the street lamp but seeing something different.
+"What the fuck are you doing?" the shorter man said after the third or fourth time this happened. His voice had an edge to it, like he was trying to stay calm and failing.
 
-"Let me tell you about that," he said.
+The dog-man didn't answer. He was looking at the light, his transformed face doing something that might have been thinking or might have been remembering.
+
+"We don't have time for this," the shorter man said, louder now. "We need to—"
+
+"Whale oil," the dog-man said. His voice was mostly growl now but still comprehensible. "They used to burn whale oil in the lamps. Street lamps. Cities full of them, all burning whale oil. Someone's job to fill each one, every night."
+
+The shorter man looked at Mara like he was asking permission to do something violent. Mara shook her head slightly.
+
+"I was at sea once," the dog-man continued. "We came upon a whaling ship. The *Petrel*, out of Nantucket. They had a whale alongside, still alive. Bleeding. They were cutting it while it was still breathing."
+
+"I don't give a shit about—" the shorter man started.
+
+"The water was red," the dog-man said. "The whole ocean around the ship was red, and the whale was making sounds, low sounds like it was trying to speak but didn't have the right mouth for it. And I thought: this is for the lamps. This whole animal, this thing that's bigger than most houses, dying in the ocean so that people in cities can have light in their streets. So they can walk safely at night. So they can see where they're going."
+
+Mara's hand found mine. Her fingers were warm, softer than I remembered them being in the alley. She wasn't holding my hand for comfort or affection. She was holding it like you hold onto something when you're trying to keep your balance, like she needed to be connected to something real while the dog-man talked about whales and street lamps in a voice that was sliding further and further away from human.
+
+"Let me tell you about that ship," the dog-man said.
